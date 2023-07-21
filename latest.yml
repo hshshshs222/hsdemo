@@ -1,0 +1,8 @@
+version: 0.1.1
+files:
+  - url: SASSET-CLIENT-Setup-0.1.1.exe
+    sha512: 2enEvCm7yJRP0g59xnyGqizqr9n/ad0LgD8i9cij4SIqzeZVQk3Jsujcv48es6Fdl3QJTkSpHr35hro0M+7eGQ==
+    size: 182171725
+path: SASSET-CLIENT-Setup-0.1.1.exe
+sha512: 2enEvCm7yJRP0g59xnyGqizqr9n/ad0LgD8i9cij4SIqzeZVQk3Jsujcv48es6Fdl3QJTkSpHr35hro0M+7eGQ==
+releaseDate: '2023-07-21T18:34:34.311Z'
